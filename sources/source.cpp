@@ -1,4 +1,4 @@
-// Copyright 2020 Your Name <your_email>
+// Copyright 2020 Your Name maximka5406@gmail.com
 #include <Crawler.hpp>
 
 int loading_html() {
